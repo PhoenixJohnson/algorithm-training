@@ -1,4 +1,4 @@
-package com.josh.algorithm;
+package com.josh.algorithm.search;
 
 public class BinarySearch {
 
